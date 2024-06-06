@@ -1,0 +1,16 @@
+{
+  "cities": [
+    {
+      "id": "ba48",
+      "cityName": "Fichtelberg",
+      "country": "Germany",
+      "emoji": "https://flagcdn.com/de.svg",
+      "date": "2024-06-03T11:29:26.108Z",
+      "notes": "",
+      "position": {
+        "lat": "50.01049703658279",
+        "lng": "11.84703826904297"
+      }
+    }
+  ]
+}
