@@ -1,14 +1,15 @@
 {
   "files": {
     "main.css": "/worldwise/static/css/main.93d3080c.css",
-    "main.js": "/worldwise/static/js/main.2d7787fd.js",
+    "main.js": "/worldwise/static/js/main.adc4c417.js",
     "static/media/bg.jpg": "/worldwise/static/media/bg.3e2be86d98db926ce9f0.jpg",
+    "static/media/logo.png": "/worldwise/static/media/logo.5d175645f31ad3e6987d.png",
     "index.html": "/worldwise/index.html",
     "main.93d3080c.css.map": "/worldwise/static/css/main.93d3080c.css.map",
-    "main.2d7787fd.js.map": "/worldwise/static/js/main.2d7787fd.js.map"
+    "main.adc4c417.js.map": "/worldwise/static/js/main.adc4c417.js.map"
   },
   "entrypoints": [
     "static/css/main.93d3080c.css",
-    "static/js/main.2d7787fd.js"
+    "static/js/main.adc4c417.js"
   ]
 }
